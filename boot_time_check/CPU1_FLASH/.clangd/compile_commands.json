@@ -1,0 +1,32 @@
+[
+   {
+      "directory" : "C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/prath/workspace_ccstheia/boot_time_check\" -I\"C:/ti/C2000Ware_26_00_00_00\" -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -D_FLASH -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH/syscfg/board.c"
+   },
+   {
+      "directory" : "C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/prath/workspace_ccstheia/boot_time_check\" -I\"C:/ti/C2000Ware_26_00_00_00\" -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -D_FLASH -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH/syscfg/c2000ware_libraries.c"
+   },
+   {
+      "directory" : "C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/prath/workspace_ccstheia/boot_time_check\" -I\"C:/ti/C2000Ware_26_00_00_00\" -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -D_FLASH -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/prath/workspace_ccstheia/boot_time_check/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/prath/workspace_ccstheia/boot_time_check\" -I\"C:/ti/C2000Ware_26_00_00_00\" -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -D_FLASH -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH/syscfg\" -DF28P55x=1",
+      "file"      : "C:/Users/prath/workspace_ccstheia/boot_time_check/device/f28p55x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/prath/workspace_ccstheia/boot_time_check\" -I\"C:/ti/C2000Ware_26_00_00_00\" -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -D_FLASH -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/prath/workspace_ccstheia/boot_time_check/empty_driverlib_main.c"
+   },
+   {
+      "directory" : "C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/prath/workspace_ccstheia/boot_time_check\" -I\"C:/ti/C2000Ware_26_00_00_00\" -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -D_FLASH -I\"C:/Users/prath/workspace_ccstheia/boot_time_check/CPU1_FLASH/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/prath/workspace_ccstheia/boot_time_check/sha256.c"
+   }
+]
